@@ -1,2 +1,5 @@
 # demo1
-a simple frontend based model for MindSage
+frontend based demo model for MindSage
+## 🔗 Live Demo
+👉 https://shagunkakran.github.io/demo1/
+
